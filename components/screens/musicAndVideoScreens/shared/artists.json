@@ -1,0 +1,164 @@
+[
+    {
+        "id": 0,
+        "name": "Sarah Jakes Roberts",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/SarahJakesRoberts.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileSarahJakesRoberts.jpg",
+        "type": "Preaching"
+    },
+    {
+        "id": 1,
+        "name": "Steven Furtick",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileStevenFurtick.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/StevenFurtick.jpg",
+        "type": "Preaching"
+    },
+    {
+        "id": 2,
+        "name": "Marty Ocaya",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileMartyOcaya.png",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/MartyOcaya.jpg",
+        "type": "Preaching"
+    },
+    {
+        "id": 3,
+        "name": "Bong Saquing",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileBongSaquing.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/BongSaquing.jpg",
+        "type": "Preaching"
+    },
+    {
+        "id": 4,
+        "name": "Joel Osteen",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileJoelOsteen.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/JoelOsteen.jpg",
+        "type": "Preaching"
+    },
+    {
+        "id": 5,
+        "name": "Stephen Prado",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileStephenPrado.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/StephenPrado.jpg",
+        "type": "Preaching" 
+    },
+    {
+        "id": 6,
+        "name": "Nick Vujicic",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileNickVujicic.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/NickVujicic.jpg",
+        "type": "Preaching"
+    },
+    {
+        "id": 7,
+        "name": "Jeremy Camp",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/JeremyCamp.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 8,
+        "name": "Big Daddy weaven",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/BigDaddyWeave.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 9,
+        "name": "Casting Crowns",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/CastingCrowns.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 10,
+        "name": "Danny Gokey",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/DannyGokey.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 11,
+        "name": "Cory Asbury",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/CoryAsbury.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 12,
+        "name": "ft. Brandon Lake",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/BrandonLake.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 13,
+        "name": "Matt Maher ft. Elle Limebear",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/MattMaher.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 14,
+        "name": "Matthew West",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/MatthewWest.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 15,
+        "name": "Mercy Me",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/MercyMe.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 16,
+        "name": "Michael W. Smith",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/MichaelSmith.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 17,
+        "name": "We The Kingdom",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/WeTheKingdom.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 18,
+        "name": "for KING & COUNTRY",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/forKINGAndCOUNTRY.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 19,
+        "name": "Lauren Daigle",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/LaurenDaigle.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 20,
+        "name": "Elevation Worship",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/ElevationWorship.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 21,
+        "name": "Kari Jobe & Cody Carnes",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/KariJobeCodyCarnesElevationWorship.jpg",
+        "cover": "",
+        "type": "Music"
+    },
+    {
+        "id": 22,
+        "name": "Zach Williams",
+        "image": "https://teravisioncorp.site/assets_music/album_cover/ZachWilliamsDollyParton.jpg",
+        "cover": "",
+        "type": "Music"
+    }
+    
+]

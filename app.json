@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "YourOne",
+    "slug": "YourOne",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/yourone-gray.png",
+    "splash": {
+      "image": "./assets/yourone-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/yourone-gray.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.teravision.YourOneAppBible"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}

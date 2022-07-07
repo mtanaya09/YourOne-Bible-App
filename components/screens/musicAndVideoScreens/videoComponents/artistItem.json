@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "name": "Sarah Jakes Roberts",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/SarahJakesRoberts.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileSarahJakesRoberts.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Steven Furtick",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileStevenFurtick.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/StevenFurtick.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Marty Ocaya",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileMartyOcaya.png",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/MartyOcaya.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bong Saquing",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileBongSaquing.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/BongSaquing.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Joel Osteen",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileJoelOsteen.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/JoelOsteen.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Stephen Prado",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileStephenPrado.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/StephenPrado.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Nick Vujicic",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileNickVujicic.jpg",
+        "cover": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/NickVujicic.jpg"
+    }
+
+
+]

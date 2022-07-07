@@ -1,0 +1,303 @@
+[{
+        "id": 7,
+        "title": "Girl, Get up",
+        "artist": 0,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_profile/ProfileSarahJakesRoberts.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/GirlGetUp.mp4",
+        "duration": 420
+    },
+    {
+        "id": 8,
+        "title": "When The Battle Chooses You",
+        "artist": 1,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/StevenFurtick.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/WhenTheBattleChoosesYou.mp4",
+        "duration": 420
+    },
+    {
+        "id": 9,
+        "title": "Taking Control Of Your Mind",
+        "artist": 1,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/StevenFurtick.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/TakingControlOfYourMind.mp4",
+        "duration": 420
+    },
+    {
+        "id": 10,
+        "title": "When Anxiety Attacks",
+        "artist": 1,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/StevenFurtick.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/WhenAnxietyAttacks.mp4",
+        "duration": 420
+    },
+    {
+        "id": 11,
+        "title": "In Every Pain, God is Working",
+        "artist": 2,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/MartyOcaya.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/InEveryPainGodIsWorking.mp4",
+        "duration": 420
+    },
+    {
+        "id": 12,
+        "title": "When Discouraged: Fix Your Eyes on God",
+        "artist": 3,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/BongSaquing.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/FixYourEyesOnGod.mp4",
+        "duration": 420
+    },
+    {
+        "id": 13,
+        "title": "Your Words Become Your Reality",
+        "artist": 4,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/JoelOsteen.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/YourWordsBecomeYourReality.mp4",
+        "duration": 420
+    },
+    {
+        "id": 14,
+        "title": "Invite God Into Your Difficulties",
+        "artist": 4,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/JoelOsteen.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/InviteGodIntoYourDifficulties.mp4",
+        "duration": 420
+    },
+    {
+        "id": 15,
+        "title": "Test of Faith",
+        "artist": 5,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/StephenPrado.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/TestOfFaith.mp4",
+        "duration": 420
+    },
+    {
+        "id": 16,
+        "title": "Learn To Live The Life God Has Called You",
+        "artist": 6,
+        "series": 420,
+        "collection": 2,
+        "caption": "",
+        "image": "https://teravisioncorp.site/assets_music/assets_video/artist_cover/NickVujicic.jpg",
+        "source": "https://teravisioncorp.site/assets_music/assets_video/LearnToLiveTheLifeGodHasCalledYou.mp4",
+        "duration": 420
+    },
+
+
+    {
+        "id": 17,
+        "title": "Keep Me In The Moment",
+        "artist": 7,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/JeremyCamp.jpg",
+        "source": "https://teravisioncorp.site/assets_music/KeepMeInTheMoment.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 18,
+        "title": "I know",
+        "artist": 8,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/BigDaddyWeave.jpg",
+        "source": "https://teravisioncorp.site/assets_music/IKnow.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 19,
+        "title": "Nobody",
+        "artist": 9,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/CastingCrowns.jpg",
+        "source": "https://teravisioncorp.site/assets_music/Nobody.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 20,
+        "title": "Love God Love People",
+        "artist": 10,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/DannyGokey.jpg",
+        "source": "https://teravisioncorp.site/assets_music/LoveGodLovePeople.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 21,
+        "title": "The Father House",
+        "artist": 11,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/CoryAsbury.jpg",
+        "source": "https://teravisioncorp.site/assets_music/TheFathersHouse.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 22,
+        "title": "Grave Into Gardens",
+        "artist": 12,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/BrandonLake.jpg",
+        "source": "https://teravisioncorp.site/assets_music/GravesIntoGardens.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 23,
+        "title": "Alive & Breathing",
+        "artist": 13,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/MattMaher.jpg",
+        "source": "https://teravisioncorp.site/assets_music/AliveAndBreathing.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 24,
+        "title": "The God Who Stays",
+        "artist": 14,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/MatthewWest.jpg",
+        "source": "https://teravisioncorp.site/assets_music/TheGodWhoStays.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 25,
+        "title": "Almost Home",
+        "artist": 15,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/MercyMe.jpg",
+        "source": "https://teravisioncorp.site/assets_music/AlmostHome.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 26,
+        "title": "Waymaker",
+        "artist": 16,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/MichaelSmith.jpg",
+        "source": "https://teravisioncorp.site/assets_music/Waymaker.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 27,
+        "title": "Holy Water",
+        "artist": 17,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/WeTheKingdom.jpg",
+        "source": "https://teravisioncorp.site/assets_music/HolyWater.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 28,
+        "title": "Burn the ships",
+        "artist": 18,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/forKINGAndCOUNTRY.jpg",
+        "source": "https://teravisioncorp.site/assets_music/BurnTheShips.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 29,
+        "title": "TOGETHER",
+        "artist": 18,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/forKINGAndCOUNTRY1.jpg",
+        "source": "https://teravisioncorp.site/assets_music/TOGETHER.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 30,
+        "title": "Rescue",
+        "artist": 19,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/LaurenDaigle.jpg",
+        "source": "https://teravisioncorp.site/assets_music/Rescue.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 31,
+        "title": "You Say",
+        "artist": 19,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/LaurenDaigle.jpg",
+        "source": "https://teravisioncorp.site/assets_music/YouSay.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 32,
+        "title": "See A Victory",
+        "artist": 20,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/ElevationWorship.jpg",
+        "source": "https://teravisioncorp.site/assets_music/SeeAVictory.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 33,
+        "title": "The Blessing",
+        "artist": 21,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/KariJobeCodyCarnesElevationWorship.jpg",
+        "source": "https://teravisioncorp.site/assets_music/TheBlessing.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 34,
+        "title": "Rescue Story",
+        "artist": 22,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/ZachWilliams.jpg",
+        "source": "https://teravisioncorp.site/assets_music/RescueStory.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    },
+    {
+        "id": 35,
+        "title": "Dolly Parton",
+        "artist": 22,
+        "image": "https://teravisioncorp.site/assets_music/album_cover/ZachWilliamsDollyParton.jpg",
+        "source": "https://teravisioncorp.site/assets_music/DollyParton.mp3",
+        "duration": "",
+        "collection": 2,
+        "caption": ""
+    }
+]
